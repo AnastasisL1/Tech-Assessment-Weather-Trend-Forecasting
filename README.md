@@ -74,3 +74,33 @@ The ensemble model provided the best accuracy by reducing variance.
 - **Scatter plots and bar charts** analyzing regional variations.
 
 ---
+
+## Running the Code
+
+### Usage Instructions
+1. Place the CSV file in the same directory as the Jupyter Notebook.
+2. Open the Jupyter Notebook and run all cells.
+
+---
+
+## Future Improvements
+
+- Implement LSTM or other deep learning models for better assessment predictions.
+- Enhance data preprocessing and text analysis using NLP (Spacy/ NLTK/ BERT).
+- Create a web interface dashboard for visual result analysis.
+
+---
+
+## Project Submission
+
+This project was submitted as the final assessment for `Tech Assessment`.
+The final report is available in the `reports/` folder.
+
+---
+
+## PM Accelerator Mission Statement
+
+The project aligns with the PM Accelerator by automating technical skill assessment evaluations. The goal is to streamline the analysis by automating technical skills preprocessing, formatting, and NLP-based sentiment analysis.
+
+---
+
