@@ -1,5 +1,7 @@
 # Tech Assessment: Weather Trend Forecasting
 
+# Name: Anastasis Lambrianos Stappas
+
 ## Project Overview
 This project analyzes the **Global Weather Repository** dataset to forecast future weather trends using **basic and advanced data science techniques**.  
 The dataset consists of **daily weather information for cities worldwide** with **over 40 features**, including **temperature, humidity, wind speed, and air quality indices**.
